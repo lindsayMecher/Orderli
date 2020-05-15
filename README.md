@@ -1,24 +1,40 @@
-# README
+# Orderli
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A tool for restaurant administrators and staff to view their open and closed checks with a list of menu items and modifications listing the price including tax and tip.
 
-Things you may want to cover:
+## Demo
 
-* Ruby version
+record youtube video
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby
+- Rails
+- SQLite3
+- Session cookies
 
-* Database creation
 
-* Database initialization
+## Server-Side Install Instructions
 
-* How to run the test suite
+1. Run `bundle install`
+2. Run `rake db:create`
+3. Run `rake db:migrate`
+4. Run `rake db:seed`
+5. Run `rails s`
 
-* Services (job queues, cache servers, search engines, etc.)
+## Client-Side Install Instructions
 
-* Deployment instructions
+Open localhost in your browser
 
-* ...
+## The App
+
+You can use the default login PIN "1234" to log in, or create a new account.
+
+## To-dos
+
+- Implement a payment processor such as Square.
+- Implement further administrative options like viewing the statistics of each server, refunding checks, and updating menu item prices.
+
+## Author
+
+Matthew Gizzi, Sam Zandi (@sammyzandi), Zach Weber (@ztw17), Lindsay Mecher (@lindsayMecher)
