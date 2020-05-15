@@ -37,4 +37,4 @@ You can use the default login PIN "1234" to log in, or create a new account.
 
 ## Author
 
-Matthew Gizzi, Sam Zandi (@sammyzandi), Zach Weber (@ztw17), Lindsay Mecher (@lindsayMecher)
+Lindsay Mecher, Sam Zandi [(@sammyzanny)](https://github.com/sammyzanny), Zach Weber [(@ztw17)](https://github.com/ztw17), Matthew Gizzi [(@m-gizzi)](https://github.com/m-gizzi)
