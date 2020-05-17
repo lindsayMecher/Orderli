@@ -4,7 +4,7 @@ A tool for restaurant administrators and staff to view their open and closed che
 
 ## Demo
 
-record youtube video
+[YouTube Walk Through](https://youtu.be/6Zy71Fzt4is)
 
 ## Built With
 
